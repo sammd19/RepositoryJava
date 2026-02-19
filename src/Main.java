@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Samuel Andres Molina Duran");
         System.out.println("Cajica");
         System.out.println("18 años");
-        System.out.println("Tengo dos perros");
+        System.out.println("Tengo dos perros Roko y Tobby");
     }
 }
